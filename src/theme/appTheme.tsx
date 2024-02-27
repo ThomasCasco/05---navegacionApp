@@ -5,7 +5,9 @@ export const styles = StyleSheet.create({
     globalMargin:{
         marginHorizontal: 20
     },
-    black:{
-        color: 'black'
+    title: {
+        fontSize: 30,
+        color: 'black',
+        marginBottom: 10
     }
 });
